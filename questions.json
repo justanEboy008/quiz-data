@@ -1,0 +1,154 @@
+{
+  "quizzes": [
+    {
+      "category": "Geography",
+      "questions": [
+        {
+          "question": "What is the capital of France?",
+          "options": ["London", "Berlin", "Paris", "Rome"],
+          "correct": "Paris"
+        },
+        {
+          "question": "Which is the largest country in the world by land area?",
+          "options": ["Canada", "China", "United States", "Russia"],
+          "correct": "Russia"
+        },
+        {
+          "question": "In which continent is the Sahara Desert located?",
+          "options": ["Asia", "Africa", "South America", "Europe"],
+          "correct": "Africa"
+        },
+        {
+          "question": "Which ocean is the largest?",
+          "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+          "correct": "Pacific Ocean"
+        },
+        {
+          "question": "What is the capital of Japan?",
+          "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+          "correct": "Tokyo"
+        }
+      ]
+    },
+    {
+      "category": "Science",
+      "questions": [
+        {
+          "question": "What is the chemical symbol for gold?",
+          "options": ["Ag", "Fe", "Au", "Cu"],
+          "correct": "Au"
+        },
+        {
+          "question": "Which planet is known as the Red Planet?",
+          "options": ["Jupiter", "Mars", "Venus", "Saturn"],
+          "correct": "Mars"
+        },
+        {
+          "question": "What is the hardest natural substance on Earth?",
+          "options": ["Steel", "Iron", "Diamond", "Platinum"],
+          "correct": "Diamond"
+        },
+        {
+          "question": "What is the closest star to Earth?",
+          "options": ["Proxima Centauri", "Sirius", "Alpha Centauri", "The Sun"],
+          "correct": "The Sun"
+        },
+        {
+          "question": "What is the chemical symbol for water?",
+          "options": ["CO2", "H2O", "O2", "N2"],
+          "correct": "H2O"
+        }
+      ]
+    },
+    {
+      "category": "Technology",
+      "questions": [
+        {
+          "question": "Who founded Apple?",
+          "options": ["Bill Gates", "Steve Jobs", "Elon Musk", "Mark Zuckerberg"],
+          "correct": "Steve Jobs"
+        },
+        {
+          "question": "What does CPU stand for?",
+          "options": ["Computer Processing Unit", "Central Processing Unit", "Control Processing Unit", "Central Program Unit"],
+          "correct": "Central Processing Unit"
+        },
+        {
+          "question": "Which programming language is known for web development?",
+          "options": ["Python", "Java", "JavaScript", "C++"],
+          "correct": "JavaScript"
+        },
+        {
+          "question": "Which company developed Windows?",
+          "options": ["Apple", "Microsoft", "Google", "IBM"],
+          "correct": "Microsoft"
+        },
+        {
+          "question": "What does HTML stand for?",
+          "options": ["Hypertext Markup Language", "High Technical Modern Language", "Hypertext Modern Layout", "High Text Machine Language"],
+          "correct": "Hypertext Markup Language"
+        }
+      ]
+    },
+    {
+      "category": "History",
+      "questions": [
+        {
+          "question": "In which year did World War II end?",
+          "options": ["1943", "1945", "1947", "1950"],
+          "correct": "1945"
+        },
+        {
+          "question": "Who was the first President of the United States?",
+          "options": ["Thomas Jefferson", "John Adams", "George Washington", "Abraham Lincoln"],
+          "correct": "George Washington"
+        },
+        {
+          "question": "The ancient Egyptian writing system was called:",
+          "options": ["Cuneiform", "Hieroglyphics", "Sanskrit", "Runes"],
+          "correct": "Hieroglyphics"
+        },
+        {
+          "question": "Which empire was ruled by Genghis Khan?",
+          "options": ["Roman Empire", "Byzantine Empire", "Mongol Empire", "Ottoman Empire"],
+          "correct": "Mongol Empire"
+        },
+        {
+          "question": "In which country did the Industrial Revolution begin?",
+          "options": ["United States", "France", "Germany", "England"],
+          "correct": "England"
+        }
+      ]
+    },
+    {
+      "category": "Sports",
+      "questions": [
+        {
+          "question": "How many players are there in a standard soccer team?",
+          "options": ["9", "10", "11", "12"],
+          "correct": "11"
+        },
+        {
+          "question": "Which country won the FIFA World Cup in 2018?",
+          "options": ["Brazil", "Germany", "France", "Argentina"],
+          "correct": "France"
+        },
+        {
+          "question": "In which sport would you perform a slam dunk?",
+          "options": ["Football", "Tennis", "Basketball", "Golf"],
+          "correct": "Basketball"
+        },
+        {
+          "question": "How many Olympic rings are there?",
+          "options": ["4", "5", "6", "7"],
+          "correct": "5"
+        },
+        {
+          "question": "Which Grand Slam tennis tournament is played on clay courts?",
+          "options": ["Wimbledon", "US Open", "Australian Open", "French Open"],
+          "correct": "French Open"
+        }
+      ]
+    }
+  ]
+}
